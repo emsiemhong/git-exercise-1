@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  
+  }
+  
+  .header > a  > button{
+    font-size: 18px;
+  }
+  .header h1{
+    color: red;
+  }
+  .header > a > button:hover{
+    background-color: blue;
+    font-size: 18px;
+    color: white;
+  }
