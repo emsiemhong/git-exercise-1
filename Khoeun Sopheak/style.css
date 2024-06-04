@@ -1,0 +1,18 @@
+header {
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    position: relative;
+    left: 40%;
+}
+
+ul {
+    position: relative;
+    left: 40%;
+}
+
+ul li {
+    font-size: 2rem;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

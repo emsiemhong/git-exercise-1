@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  
+  }
+  
+  .header > a  > button{
+    font-size: 18px;
+  }
+  .header h1{
+    color: blue;
+  }
+  .header > a > button:hover{
+    background-color: rebeccapurple;
+    font-size: 18px;
+    color: white;
+  }
