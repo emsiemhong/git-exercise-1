@@ -1,0 +1,11 @@
+.container{
+    width: 800px;
+   height: 800px;
+    background-color: violet;
+    margin: auto;
+}
+h1, ul li{
+    font-size: 30px;
+    padding: 5px;
+    color: rgb(75, 44, 44);
+}
