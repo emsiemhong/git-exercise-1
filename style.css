@@ -11,14 +11,10 @@ body {
   margin: auto;
   padding: 20px;
 }
-
-.header {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-
+.container a {
+  font-size: 30px;
+  background-color: aqua;
 }
 
-.header > a  > button{
-  font-size: 18px;
-}
+
+
