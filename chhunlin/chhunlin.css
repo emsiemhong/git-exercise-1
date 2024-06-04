@@ -1,0 +1,15 @@
+h1{
+    font-size: 5em; 
+    color: #fff; 
+    font-family: Arial, sans-serif; 
+    text-shadow:  
+        0 0 5px #ffae00d3,  
+        0 0 10px #ffae00d3,  
+        0 0 20px #ffae00d3,  
+        0 0 30px #ffae00d3,  
+        0 0 40px #ffae00d3,  
+        0 0 50px #ffae00d3,  
+        0 0 60px #ffae00d3; 
+    position: relative; 
+    z-index: 1; 
+}
